@@ -1,7 +1,5 @@
-# P6-OC
-
-Analyser les besoins de votre client pour son groupe de pizzerias
-
+# Projet Openclassrooms
+# Projet 6 : Analyser les besoins de votre client pour son groupe de pizzerias
 
 Analyser un besoin client
 
